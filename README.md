@@ -8,3 +8,7 @@ The objective is to build a simple platform to upload and view files:
 4.Change permission of a file
 5.View a file
 6.Generate thumbnails for images
+
+Authors
+Heman Alany: devalanyheman2@gmail.com
+Mark Muriithi:
